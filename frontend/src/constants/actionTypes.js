@@ -1,0 +1,10 @@
+export const CREATE = 'CREATE';
+export const UPDATE = 'UPDATE';
+export const DELETE = 'DELETE';
+export const FETCH_TODO_TASKS = 'FETCH_TODO_TASKS';
+export const FETCH_DONE_TASKS = 'FETCH_DONE_TASKS';
+export const FETCH_OVERDUE_TASKS ='FETCH_OVERDUE_TASKS';
+export const DONE = 'DONE';
+export const AUTH = 'AUTH';
+export const LOGOUT = 'LOGOUT';
+export const UNDONE = 'UNDONE';
