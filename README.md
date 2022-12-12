@@ -14,11 +14,11 @@
     <a></a>
     <br />
     <br />
-    <a target="_blank" href="https://www.youtube.com/watch?v=oMMhL9pI7Z8&ab_channel=VelidPo%C5%A1ko">View Demo</a>
+   
     ·
     <a target="_blank" href="https://github.com/velidp/to-do-list/issues">Report Bug</a>
     ·
-    <a target="_blank" href="https://to-do-list-velid.netlify.app">Deployment</a>
+    
   </p>
 </div>
 
@@ -26,7 +26,7 @@
 
 
 #### App is deployed at:  https://to-do-list-velid.netlify.app
-#### Watch video demo: <a target="_blank" href="https://www.youtube.com/watch?v=oMMhL9pI7Z8&ab_channel=VelidPo%C5%A1ko">Video Demo</a>
+
 
 
 
