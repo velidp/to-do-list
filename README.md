@@ -15,9 +15,9 @@
     <br />
     <br />
    
-    ·
+    
     <a target="_blank" href="https://github.com/velidp/to-do-list/issues">Report Bug</a>
-    ·
+    
     
   </p>
 </div>
