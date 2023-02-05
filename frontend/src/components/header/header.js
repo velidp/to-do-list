@@ -46,11 +46,11 @@ export default function Header() {
                                 <Grid spacing={2} container direction='row'>
 
                                     <Grid item>
-                                        <Avatar alt={user.result.name} src={user.result.imageUrl}>{user.result.name.charAt(0)}</Avatar>
+                                        <Avatar alt={user.result?.name} src={user.result?.imageUrl}>{user.result?.name.charAt(0)}</Avatar>
                                     </Grid>
 
                                     <Grid item style={{marginTop: 8}}>
-                                        <Typography variant='body'>{user.result.name}</Typography>
+                                        <Typography variant='body'>{user.result?.name}</Typography>
                                     </Grid>
 
                                     <Grid item>

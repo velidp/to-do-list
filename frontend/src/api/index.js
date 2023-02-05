@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'https://to-do-list-vp.herokuapp.com' });
+const API = axios.create({ baseURL: 'https://to-do-list-2kpm.onrender.com' });
 
 API.interceptors.request.use((req) => {
     if(localStorage.getItem('profile')) {
